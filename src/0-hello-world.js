@@ -1,11 +1,11 @@
 const hw = 'hello world'
 
 function helloworld(name) {
-    if (name !== undefined){
+    if (name !== undefined) {
         return hw + ' ' + name
-    }else{
+    } else {
         return hw
     }
 }
 
-module.exports = helloworld;
+module.exports = { helloworld };
