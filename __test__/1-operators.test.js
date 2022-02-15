@@ -16,7 +16,7 @@ test('adds all the given numbers', () => {
     expect(add(-3, 5, 4, 3, 2, 1)).toBe(12)
 })
 
-test('exponentation', () => {
+test('exponentiation', () => {
     // positives
     expect(pow(3, 2)).not.toBe(-9)
     expect(pow(3, 2)).toBe(9)
