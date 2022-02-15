@@ -22,12 +22,12 @@ const add = (...n) => {
     return sum
 }
 
-// exponentiation
+// *** exponentiation ***
 const pow = (base, pow) => {
     return base ** pow
 }
 
-// even or odd
+// *** even or odd ***
 const isEven = (n) => {
     return n % 2 === 0
 }
