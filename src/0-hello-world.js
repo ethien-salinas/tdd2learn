@@ -8,4 +8,4 @@ function helloworld(name) {
     }
 }
 
-module.exports = { helloworld };
+module.exports = { helloworld }

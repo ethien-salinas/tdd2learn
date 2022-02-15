@@ -14,6 +14,7 @@ Operator	Description
 const addOne = (n) => {
     return n + 1
 }
+
 const add = (...n) => {
     sum = 0
     n.forEach(e => {
