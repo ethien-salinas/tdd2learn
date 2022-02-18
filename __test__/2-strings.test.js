@@ -7,6 +7,7 @@ test('checks if a string is empty', () => {
     expect(isEmptyStr(speechClosingParagraph)).toBeFalsy()
     expect(isEmptyStr(speechGreeting)).not.toBeTruthy()
 })
+
 test('checks if a string is empty for special cases', () => {
     expect(isEmptyStr(NaN)).toBe(false)
     expect(isEmptyStr(Infinity)).toBeFalsy()

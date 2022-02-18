@@ -1,6 +1,6 @@
 const speechHeadline = "My message is that we'll be watching you?"
 const speechBody = `
-This is all wrong. I shouldn't be up here. I should be back in school, on the other side of the ocean. Yet you all come to us young people for hope. How dare you! 
+This is all wrong. I shouldn't be up here. I should be back in school, on the other side of the ocean. Yet you all come to us young people for hope. How dare you!
 
 You have stolen my dreams and my childhood with your empty words. And yet I'm one of the lucky ones. People are suffering. People are dying.
 
@@ -12,21 +12,21 @@ You say you hear us and that you understand the urgency. But no matter how sad a
 
 The popular idea of cutting our emissions in half in 10 years only gives us a 50% chance of staying below 1.5 degrees (Celsius) and the risk of setting off irreversible chain reactions beyond human control.
 
-Fifty percent may be acceptable to you. But those numbers do not include tipping points, most feedback loops, additional warming hidden by toxic air pollution or the aspects of equity and climate justice. They also rely on my generation sucking hundreds of billions of tons of your CO2 out of the air with technologies that barely exist. 
+Fifty percent may be acceptable to you. But those numbers do not include tipping points, most feedback loops, additional warming hidden by toxic air pollution or the aspects of equity and climate justice. They also rely on my generation sucking hundreds of billions of tons of your CO2 out of the air with technologies that barely exist.
 
 So a 50% risk is simply not acceptable to us we who have to live with the consequences.
 
-To have a 67% chance of staying below a 1.5 degrees global temperature rise – the best odds given by the (Intergovernmental Panel on Climate Change) – the world had 420 gigatons of CO2 left to emit back on Jan. 1, 2018. Today that figure is already down to less than 350 gigatons. 
+To have a 67% chance of staying below a 1.5 degrees global temperature rise – the best odds given by the (Intergovernmental Panel on Climate Change) – the world had 420 gigatons of CO2 left to emit back on Jan. 1, 2018. Today that figure is already down to less than 350 gigatons.
 
 How dare you pretend that this can be solved with just "business as usual" and some technical solutions? With today's emissions levels, that remaining CO2 budget will be entirely gone within less than eight and a half years.
 
 There will not be any solutions or plans presented in line with these figures here today, because these numbers are too uncomfortable and you are still not mature enough to tell it like it is.
 
-You are failing us. But the young people are starting to understand your betrayal. The eyes of all future generations are upon you. And if you choose to fail us, I say: We will never forgive you. 
+You are failing us. But the young people are starting to understand your betrayal. The eyes of all future generations are upon you. And if you choose to fail us, I say: We will never forgive you.
 
 `
 const speechClosingParagraph = `
-We will not let you get away with this. Right here, right now is where we draw the line. The world is waking up. And change is coming, whether you like it or not. 
+We will not let you get away with this. Right here, right now is where we draw the line. The world is waking up. And change is coming, whether you like it or not.
 `
 const speechGreeting = "Thank you."
 
